@@ -1,6 +1,6 @@
 # reader
 an android app to read wordpress blogs that have the wp-REST api
-
+Trying to develop an Android App for bahainf.mystagingwebsite.com
 
 <h3>To install on your phone:</h3>
 <li>
