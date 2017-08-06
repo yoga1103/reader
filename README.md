@@ -7,10 +7,13 @@ an android app to read wordpress blogs that have the wp-REST api
 open android studio
 </li>
 <li>
-then under file > new > import project 
+then under file > new > import project form vcs 
 </li>
 <li>
-then select the folder of the project, Android studio will prompt you to install the dependencies 
+then select github and then copy the link for this repo and past it in the "project link" box
+</li>
+<li>
+ Android studio will prompt you to install the dependencies 
 </li>
 <li>
 then upload the app to your phone
